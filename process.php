@@ -8,7 +8,7 @@
         $pass =  htmlspecialchars($_POST['pass']);
         if($user == $correctUser){
             if($pass == $correctPass){
-                 echo "You've been logged in";
+                 header("Location: profile.php");
             } else {
                 echo "incorrect password";
             }
