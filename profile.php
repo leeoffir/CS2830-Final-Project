@@ -31,7 +31,7 @@ include "scripts/profilescripts.php";
             <div class="panel panel-default">
               <div class="panel-heading text-center">Biography</div>
               <div class="panel-body">
-                  <button type="button" onclick="modalFillBio()" class="btn btn-info btn-lg center-block" data-toggle="modal" data-target="#myModal">View</button>
+                  <button type="button" onclick="modalFillBio()" class="btn btn-info btn-lg btn-block center-block" data-toggle="modal" data-target="#myModal">View</button>
               </div>
             </div>
           </div>
@@ -39,7 +39,7 @@ include "scripts/profilescripts.php";
             <div class="panel panel-default">
               <div class="panel-heading text-center">Stats</div>
               <div class="panel-body">
-                  <button type="button" onclick="modalFillStats()" class="btn btn-info btn-lg center-block" data-toggle="modal" data-target="#myModal">View</button>
+                  <button type="button" onclick="modalFillStats()" class="btn btn-info btn-lg btn-block" data-toggle="modal" data-target="#myModal">View</button>
               </div>
             </div>
           </div>
