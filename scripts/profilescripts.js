@@ -45,3 +45,15 @@ function displayVideos(){
     }
   });
 }
+
+function displayAwards(){
+  $.ajax({
+    url: 'scripts/profilescripts.php',
+    data: {action: 'awards'},
+    type: 'post',
+    success: function(output){
+      $(".modal-body").html(output);
+      $(".modal-header").html("Awards and Honors");
+    }
+  });
+}

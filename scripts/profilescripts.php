@@ -6,6 +6,7 @@
       case 'stats': printStatsInfo(); break;
       case 'images': showImages(); break;
       case 'videos': showVideos(); break;
+      case 'awards': showAwards(); break;
 
       default:  break;
     }
@@ -102,6 +103,26 @@ function showVideos(){
     <h4 class="text-center">2001-2015 Highlights</h4>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/bBQa8R8vr_o" frameborder="0" allowfullscreen></iframe>
   </div>';
+}
+
+function showAwards(){
+  echo'5× Super Bowl champion (XXXVI, XXXVIII, XXXIX, XLIX, LI)<br><br>
+4× Super Bowl MVP (XXXVI, XXXVIII, XLIX, LI)<br><br>
+12× Pro Bowl (2001, 2004, 2005, 2007, 2009–2016)<br><br>
+2× First-team All-Pro (2007, 2010)<br><br>
+2× Second-team All-Pro (2005, 2016)<br><br>
+2× NFL Most Valuable Player (2007, 2010)<br><br>
+2× NFL Offensive Player of the Year (2007, 2010)<br><br>
+NFL Comeback Player of the Year (2009)<br><br>
+Bert Bell Award (2007)<br><br>
+Associated Press Male Athlete of the Year (2007)<br><br>
+Sports Illustrated Sportsman of the Year (2005)<br><br>
+2× NFL passing yards leader (2005, 2007)<br><br>
+4× NFL passing touchdowns leader (2002, 2007, 2010, 2015)<br><br>
+NFL 2000s All-Decade Team<br><br>
+National champion (1997)
+<br><hr><br>
+@en.wikipedia.org/wiki/Tom_Brady';
 }
 
 
