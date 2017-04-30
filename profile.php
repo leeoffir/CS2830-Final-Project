@@ -16,7 +16,7 @@
           <div class="col-md-4">
             <div class="panel panel-default">
               <div class="panel-heading">1</div>
-              <div class="panel-body">Panel Content</div>
+              <div class="panel-body">Panel Cfontent</div>
             </div>
           </div>
           <div class="col-md-4">
