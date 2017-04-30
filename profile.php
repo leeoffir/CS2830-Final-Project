@@ -20,6 +20,7 @@ include "scripts/profilescripts.php";
           <?php
 
             print_modal();
+            showImages();
 
            ?>
         <div class="row">
@@ -31,7 +32,7 @@ include "scripts/profilescripts.php";
             <div class="panel panel-default">
               <div class="panel-heading text-center">Biography</div>
               <div class="panel-body">
-                  <button type="button" onclick="modalFillBio()" class="btn btn-info btn-lg btn-block center-block" data-toggle="modal" data-target="#myModal">View</button>
+                  <button type="button" onclick="modalFillBio()" class="btn btn-info btn-lg btn-block" data-toggle="modal" data-target="#myModal">View</button>
               </div>
             </div>
           </div>
@@ -45,8 +46,10 @@ include "scripts/profilescripts.php";
           </div>
           <div class="col-md-4">
             <div class="panel panel-default">
-              <div class="panel-heading">3</div>
-              <div class="panel-body">Panel Content</div>
+              <div class="panel-heading text-center">Images</div>
+              <div class="panel-body">
+                <button type="button" onclick="showImages()" class="btn btn-info btn-lg btn-block" data-toggle="modal" data-target="#myModal">View</button>
+              </div>
             </div>
           </div>
         </div>
