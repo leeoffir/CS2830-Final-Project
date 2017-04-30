@@ -18,7 +18,7 @@ Brady has been honored with four Super Bowl MVP awards (Super Bowl XXXVI, XXXVII
 <br><hr><br>
 For his alleged involvement in the highly publicized Deflategate football tampering scandal, Brady was suspended for the first four games of the 2016 NFL season.[10] Subsequently, Brady went on to win Super Bowl LI and Super Bowl MVP.
 <br><hr><br>
-@en.wikipedia.org/wiki/Tom_Brady;
+@en.wikipedia.org/wiki/Tom_Brady';
 }
 
 function printStatsInfo(){
