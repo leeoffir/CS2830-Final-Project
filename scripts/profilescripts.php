@@ -73,7 +73,7 @@ function printStatsInfo(){
 }
 
 function showImages(){
-  $dirname = "images/";
+  $dirname = "../images/";
 	$images = glob($dirname."*.{gif,jpg,jpeg,png}",GLOB_BRACE);
 
 	foreach($images as $image) {
