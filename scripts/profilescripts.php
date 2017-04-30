@@ -5,6 +5,7 @@
       case 'bioInfo': printBioInfo(); break;
       case 'stats': printStatsInfo(); break;
       case 'images': showImages(); break;
+      case 'videos': showVideos(); break;
 
       default:  break;
     }
@@ -87,6 +88,22 @@ function showImages(){
 		}
 }
 
+function showVideos(){
+  echo '<div>
+    <div>
+      <h2 class="text-center">Superbowl 51 Highlights</h2>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/7OybpnSW-DE" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div>
+    <h3 class="text-center">2016-2017 Season Highlights</h3>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/FUfU8tLXvAw" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div>
+    <h4 class="text-center">2001-2015 Highlights</h4>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/bBQa8R8vr_o" frameborder="0" allowfullscreen></iframe>
+  </div>';
+}
+
 
 function print_modal(){
   echo '<div class="modal fade" id="myModal" role="dialog">
@@ -96,7 +113,7 @@ function print_modal(){
               <div class="modal-content">
                 <div class="modal-header">
                   <button type="button" class="close" data-dismiss="modal">&times;</button>
-                  <h4 class="center-block modal-title">Modal Header</h4>
+                  <h4 class="text-center modal-title">Modal Header</h4>
                 </div>
                 <div class="modal-body">
                   <p>Some text in the modal.</p>
