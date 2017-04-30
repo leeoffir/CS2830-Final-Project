@@ -9,7 +9,7 @@
   }
 
 function printBioInfo(){
-echo 'Thomas Edward Patrick Brady Jr. (born August 3, 1977) is an American football quarterback for the New England Patriots of the National Football League (NFL). He is one of only two players to win five Super Bowls (the other being Charles Haley), the only quarterback to win five and the only player to win them all playing for one team.
+return 'Thomas Edward Patrick Brady Jr. (born August 3, 1977) is an American football quarterback for the New England Patriots of the National Football League (NFL). He is one of only two players to win five Super Bowls (the other being Charles Haley), the only quarterback to win five and the only player to win them all playing for one team.
 <br>
 After playing college football for the University of Michigan, Brady was drafted by the Patriots in the sixth round of the 2000 NFL Draft. In Brady'.'s 15 seasons as a starter,[a] he has quarterbacked the Patriots to seven Super Bowl appearances, the most for any player in history.
 <br>
