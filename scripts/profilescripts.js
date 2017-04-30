@@ -21,3 +21,15 @@ function modalFillStats(){
     }
   });
 }
+
+function displayImages(){
+  $.ajax({
+    url: 'scripts/profilescripts.php',
+    data: {action: 'images'},
+    type: 'post',
+    success: function(output){
+      $(".modal-body").html(output);
+      $(".modal-header").html("Images");
+    }
+  });
+}

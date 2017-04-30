@@ -20,7 +20,6 @@ include "scripts/profilescripts.php";
           <?php
 
             print_modal();
-            showImages();
 
            ?>
         <div class="row">
@@ -48,7 +47,7 @@ include "scripts/profilescripts.php";
             <div class="panel panel-default">
               <div class="panel-heading text-center">Images</div>
               <div class="panel-body">
-                <button type="button" onclick="showImages()" class="btn btn-info btn-lg btn-block" data-toggle="modal" data-target="#myModal">View</button>
+                <button type="button" onclick=displayImages()" class="btn btn-info btn-lg btn-block" data-toggle="modal" data-target="#myModal">View</button>
               </div>
             </div>
           </div>
