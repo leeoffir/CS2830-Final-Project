@@ -45,7 +45,7 @@ function displayVideos(){
     }
   });
 }
-
+git
 function displayAwards(){
   $.ajax({
     url: 'scripts/profilescripts.php',
