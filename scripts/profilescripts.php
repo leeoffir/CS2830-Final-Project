@@ -22,7 +22,7 @@ For his alleged involvement in the highly publicized Deflategate football tamper
 }
 
 function printStatsInfo(){
-  echo '<table class="table table-hover">
+  echo '<table class="table table-hover table-responsive">
   <thead>
     <tr>
       <th>Year</th>
@@ -35,10 +35,12 @@ function printStatsInfo(){
   </thead>
   <tbody>
     <tr>
-      <th scope="row">1</th>
-      <td>Mark</td>
-      <td>Otto</td>
-      
+      <td>2016</td>
+      <td>67.4%</td>
+      <td>3,554</td>
+      <td>28</td>
+      <td>2</td>
+      <td>112.2</td>
     </tr>
     <tr>
       <th scope="row">2</th>
