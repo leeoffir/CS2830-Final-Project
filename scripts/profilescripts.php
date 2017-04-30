@@ -77,7 +77,7 @@ function showImages(){
 	$images = glob($dirname."*.{gif,jpg,jpeg,png,JPG}",GLOB_BRACE);
 
 	foreach($images as $image) {
-    		echo '<img src="CS2830-Final-Project/'.$image.'" alt="image"><br>';
+    		echo '<img src="CS2830-Final-Project/'.$image.'" class="img-fluid" alt="image"><br>';
 		}
 
 	if (file_exists($dirname)) {
