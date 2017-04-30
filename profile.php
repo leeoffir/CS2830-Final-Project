@@ -23,7 +23,7 @@ include "scripts/profilescripts.php";
 
            ?>
         <div class="row">
-          <h1>Tom Brady's Full Profile</h1>
+          <h1 class="text-center">Tom Brady's Full Profile</h1>
         </div>
         <!-- first row -->
         <div class="row">

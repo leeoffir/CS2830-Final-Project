@@ -50,6 +50,22 @@ function printStatsInfo(){
       <td>7</td>
       <td>102.2</td>
     </tr>
+    <tr>
+      <th scope="row">2014</th>
+      <td>64.1%</td>
+      <td>4,109</td>
+      <td>33</td>
+      <td>9</td>
+      <td>97.4</td>
+    </tr>
+    <tr>
+      <th scope="row">2013</th>
+      <td>60.5%</td>
+      <td>4,343</td>
+      <td>25</td>
+      <td>11</td>
+      <td>87.3</td>
+    </tr>
   </tbody>
 </table>
 ';
@@ -64,7 +80,7 @@ function print_modal(){
               <div class="modal-content">
                 <div class="modal-header">
                   <button type="button" class="close" data-dismiss="modal">&times;</button>
-                  <h4 class="modal-title">Modal Header</h4>
+                  <h4 class="modal-title text-center">Modal Header</h4>
                 </div>
                 <div class="modal-body">
                   <p>Some text in the modal.</p>
