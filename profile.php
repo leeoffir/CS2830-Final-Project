@@ -12,6 +12,7 @@ include "scripts/profilescripts.php";
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="scripts/profilescripts.js" charset="utf-8"></script>
   </head>
   <body>
     <div class="container">
@@ -28,9 +29,9 @@ include "scripts/profilescripts.php";
         <div class="row">
           <div class="col-md-4">
             <div class="panel panel-default">
-              <div class="panel-heading">1</div>
+              <div class="panel-heading">Biography</div>
               <div class="panel-body">
-                  <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open Modal</button>
+                  <button type="button" onclick="modalFillBio()" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">View</button>
               </div>
             </div>
           </div>
