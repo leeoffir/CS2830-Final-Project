@@ -22,19 +22,32 @@ For his alleged involvement in the highly publicized Deflategate football tamper
 }
 
 function printStatsInfo(){
-  echo '<div class="container">
-  <div class="row">
-    <div class="col-sm-2">
-
-    </div>
-    <div class="col-sm-2">
-      <!-- Content -->
-    </div>
-    <div class="col-sm-8">
-      <!-- Content -->
-    </div>
-  </div>
-</div>';
+  echo '<table class="table table-hover">
+  <thead>
+    <tr>
+      <th>Year</th>
+      <th>Completion Percentage</th>
+      <th>Yards</th>
+      <th>Touchdowns</th>
+      <th>Intereptions</th>
+      <th>QB Raiting</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Mark</td>
+      <td>Otto</td>
+      
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Jacob</td>
+      <td>Thornton</td>
+    </tr>
+  </tbody>
+</table>
+';
 }
 
 
