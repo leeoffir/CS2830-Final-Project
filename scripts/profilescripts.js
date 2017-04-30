@@ -3,7 +3,7 @@ function modalFillBio(){
     url: 'scripts/profilescripts.php',
     data: {action: 'bioInfo'},
     type: 'post',
-    success: function(ouput){
+    success: function(output){
       $(".modal-body").html(output);
     }
   });
