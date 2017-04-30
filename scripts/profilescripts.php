@@ -74,7 +74,7 @@ function printStatsInfo(){
 
 function showImages(){
   $dirname = "../images/";
-	$images = glob($dirname."*.{gif,jpg,jpeg,png}",GLOB_BRACE);
+	$images = glob($dirname."*.{gif,jpg,jpeg,png,JPG}",GLOB_BRACE);
 
 	foreach($images as $image) {
     		echo '<img src="'.$image.'" alt="image"><br>';
