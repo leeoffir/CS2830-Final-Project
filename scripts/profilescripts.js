@@ -8,3 +8,14 @@ function modalFillBio(){
     }
   });
 }
+
+function modalFillStats(){
+  $.ajax({
+    url: 'scripts/profilescripts.php',
+    data: {action: 'stats'},
+    type: 'post',
+    success: function(output){
+      $(".modal-body").html(output);
+    }
+  });
+}

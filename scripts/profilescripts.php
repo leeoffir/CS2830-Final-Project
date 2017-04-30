@@ -3,6 +3,7 @@
     $action = $_POST['action'];
     switch ($action) {
       case 'bioInfo': printBioInfo(); break;
+      case 'stats': printStatsInfo(); break;
 
       default:  break;
     }
@@ -17,6 +18,22 @@ Brady has been honored with four Super Bowl MVP awards (Super Bowl XXXVI, XXXVII
 <br>
 For his alleged involvement in the highly publicized Deflategate football tampering scandal, Brady was suspended for the first four games of the 2016 NFL season.[10] Subsequently, Brady went on to win Super Bowl LI and Super Bowl MVP.
 @en.wikipedia.org/wiki/Tom_Brady';
+}
+
+function printStatsInfo(){
+  echo '<div class="container">
+  <div class="row">
+    <div class="col-sm-2">
+      
+    </div>
+    <div class="col-sm-2">
+      <!-- Content -->
+    </div>
+    <div class="col-sm-8">
+      <!-- Content -->
+    </div>
+  </div>
+</div>';
 }
 
 

@@ -37,8 +37,10 @@ include "scripts/profilescripts.php";
           </div>
           <div class="col-md-4">
             <div class="panel panel-default">
-              <div class="panel-heading">2</div>
-              <div class="panel-body">Panel Content</div>
+              <div class="panel-heading">Stats</div>
+              <div class="panel-body">
+                  <button type="button" onclick="modalFillStats()" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">View</button>
+              </div>
             </div>
           </div>
           <div class="col-md-4">
