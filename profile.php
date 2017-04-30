@@ -20,7 +20,9 @@
           <div class="col-md-4">
             <div class="panel panel-default">
               <div class="panel-heading">1</div>
-              <div class="panel-body">Panel Cfontent</div>
+              <div class="panel-body">
+                  <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open Modal</button>
+              </div>
             </div>
           </div>
           <div class="col-md-4">
