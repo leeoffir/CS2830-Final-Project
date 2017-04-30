@@ -33,3 +33,15 @@ function displayImages(){
     }
   });
 }
+
+function displayVideos(){
+  $.ajax({
+    url: 'scripts/profilescripts.php',
+    data: {action: 'videos'},
+    type: 'post',
+    success: function(output){
+      $(".modal-body").html(output);
+      $(".modal-header").html("Highlights");
+    }
+  });
+}
