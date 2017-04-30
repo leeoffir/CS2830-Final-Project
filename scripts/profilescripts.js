@@ -5,7 +5,7 @@ function modalFillBio(){
     type: 'post',
     success: function(output){
       $(".modal-body").html(output);
-      $("modal-header").html("Wiki Bio");
+      $(".modal-header").html("Wiki Bio");
     }
   });
 }
@@ -17,7 +17,7 @@ function modalFillStats(){
     type: 'post',
     success: function(output){
       $(".modal-body").html(output);
-      $("modal-header").html("Player Statistics");
+      $(".modal-header").html("Player Statistics");
     }
   });
 }
