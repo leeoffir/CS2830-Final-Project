@@ -1,6 +1,6 @@
 function modalFillBio(){
   $.ajax({
-    url: 'profilescripts.php',
+    url: 'scripts/profilescripts.php',
     data: {action: 'bioInfo'},
     type: 'post',
     success: function(ouput){

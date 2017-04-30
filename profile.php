@@ -19,6 +19,8 @@ include "scripts/profilescripts.php";
       <div class="jumbotron">
           <?php
 
+            print_modal();
+
            ?>
         <div class="row">
           <h1>Tom Brady's Full Profile</h1>
