@@ -35,7 +35,7 @@ function printStatsInfo(){
   </thead>
   <tbody>
     <tr>
-      <td>2016</td>
+      <th scope="row">2016</th>
       <td>67.4%</td>
       <td>3,554</td>
       <td>28</td>
@@ -43,9 +43,12 @@ function printStatsInfo(){
       <td>112.2</td>
     </tr>
     <tr>
-      <th scope="row">2</th>
-      <td>Jacob</td>
-      <td>Thornton</td>
+      <th scope="row">2015</th>
+      <td>64.4%</td>
+      <td>4,770</td>
+      <td>36</td>
+      <td>7</td>
+      <td>102.2</td>
     </tr>
   </tbody>
 </table>
