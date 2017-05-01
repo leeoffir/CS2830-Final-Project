@@ -57,3 +57,15 @@ function displayAwards(){
     }
   });
 }
+
+function displayAbout(){
+  $.ajax({
+    url: 'scripts/process.php',
+    data: {action: 'about'},
+    type: 'post',
+    success: function(output){
+      $(".modal-body").html(output);
+      $(".modal-header").html("About this page");
+    }
+  });
+}
