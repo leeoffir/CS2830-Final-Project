@@ -2,6 +2,7 @@
 
 include "scripts/profilescripts.php";
 print_modal();
+
  ?>
 <!DOCTYPE html>
 <html>
