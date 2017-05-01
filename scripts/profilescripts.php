@@ -181,6 +181,7 @@ function printStatsInfo(){
       <td>152</td>
       <td>97.2</td>
     </tr>
+    <p>@https://www.google.com/search?q=tom+brady+stats&oq=tom+brady+stats&aqs=chrome..69i57j69i61j69i60l2.3133j0j7&sourceid=chrome&ie=UTF-8<p>
   </tbody>
 </table>
 ';
