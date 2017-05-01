@@ -43,7 +43,7 @@ function printStatsInfo(){
       <td class="text-center">3,554</td>
       <td class="text-center">28</td>
       <td class="text-center">2</td>
-      <t class="text-center"d>112.2</td>
+      <td class="text-center"d>112.2</td>
     </tr>
     <tr>
       <th scope="row">2015</th>
