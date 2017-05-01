@@ -44,7 +44,7 @@ print_modal();
     	  </form>
       </div>
       <div class="row">
-        <div class="col-md-4">
+        <div class="col-md-16 text-center">
           <div class="panel panel-default">
             <div class="panel-heading text-center">About this page</div>
             <div class="panel-body">
