@@ -69,6 +69,14 @@ function printStatsInfo(){
       <td>11</td>
       <td>87.3</td>
     </tr>
+    <tr>
+      <th scope="row">2012</th>
+      <td>63.0%</td>
+      <td>4,827</td>
+      <td>34</td>
+      <td>8</td>
+      <td>98.7</td>
+    </tr>
   </tbody>
 </table>
 ';
