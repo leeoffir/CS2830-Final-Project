@@ -1,6 +1,6 @@
 <?php
 
-include "process.php";
+include "scripts/profilescripts.php";
 
  ?>
 <!DOCTYPE html>

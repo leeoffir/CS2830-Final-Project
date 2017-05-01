@@ -60,7 +60,7 @@ function displayAwards(){
 
 function displayAbout(){
   $.ajax({
-    url: 'process.php',
+    url: 'scripts/profilescripts.php',
     data: {action: 'about'},
     type: 'post',
     success: function(output){

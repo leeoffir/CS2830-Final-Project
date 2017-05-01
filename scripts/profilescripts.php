@@ -259,6 +259,14 @@ function print_modal(){
             </div>
           </div>';
 }
+function printAbout(){
+echo 'This is the fan page for the greatest Quarterback of all time Tom Brady.
+<br><br>
+Only a true fan knows the login credientials to view this page.
+<br><br>
+This
+';
+}
 
 
 
