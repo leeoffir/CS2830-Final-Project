@@ -40,7 +40,7 @@ print_modal();
             <label for="pass">Password:</label>
             <input class="form-control" type="password" name="pass" placeholder="Password..."><br>
           </div>
-    		  <input class="btn btn-success text-center" type="submit" value="Submit" name="submit">
+    		  <input class="btn btn-success center-block" type="submit" value="Submit" name="submit">
     	  </form>
       </div>
       <div class="row">
