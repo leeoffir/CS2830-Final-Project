@@ -20,14 +20,14 @@
     if(isset($_POST['action']) && !empty($_POST['action'])){
       $action = $_POST['action'];
       switch ($action) {
-        case 'about': displayAbout(); break;
+        case 'about': printAbout(); break;
 
 
         default:  break;
       }
     }
 
-    function displayAbout(){
+    function printAbout(){
     echo 'This is the fan page for the greatest Quarterback of all time Tom Brady.
     <br><br>
     Only a true fan knows the login credientials to view this page.
