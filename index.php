@@ -1,6 +1,6 @@
 <?php
 
-include "scripts/process.php";
+include "process.php";
 
  ?>
 <!DOCTYPE html>
