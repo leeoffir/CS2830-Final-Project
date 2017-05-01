@@ -17,19 +17,5 @@
         }
     }
 
-    if(isset($_POST['action']) && !empty($_POST['action'])){
-      $action = $_POST['action'];
-      switch ($action) {
-        case 'about': printAbout(); break;
-
-
-        default:  break;
-      }
-    }
-
-    
-
-
-
 
 ?>

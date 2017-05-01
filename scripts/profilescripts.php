@@ -7,7 +7,7 @@
       case 'images': showImages(); break;
       case 'videos': showVideos(); break;
       case 'awards': showAwards(); break;
-
+      case 'about': printAbout(); break;
       default:  break;
     }
   }
