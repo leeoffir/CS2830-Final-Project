@@ -29,7 +29,7 @@ function printStatsInfo(){
   <thead>
     <tr>
       <th>Year</th>
-      <th>Completion Percentage</th>
+      <th>Completion %</th>
       <th>Yards</th>
       <th>Touchdowns</th>
       <th>Intereptions</th>
