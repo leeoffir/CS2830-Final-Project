@@ -1,3 +1,8 @@
+<?php
+
+include "scripts/process.php";
+
+ ?>
 <!DOCTYPE html>
 <html>
   <head>
@@ -37,10 +42,9 @@
     	  </form>
       </div>
       <div class="row">
-        <h2 class="text-center">About this Page...</h2>
         <div class="col-md-4">
           <div class="panel panel-default">
-            <div class="panel-heading text-center">Info</div>
+            <div class="panel-heading text-center">About this page</div>
             <div class="panel-body">
               <button type="button" onclick="displayAbout()" class="btn btn-info btn-lg btn-block" data-toggle="modal" data-target="#myModal">View</button>
             </div>
