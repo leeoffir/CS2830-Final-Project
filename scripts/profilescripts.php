@@ -77,6 +77,110 @@ function printStatsInfo(){
       <td>8</td>
       <td>98.7</td>
     </tr>
+    <tr>
+      <th scope="row">2011</th>
+      <td>65.6%</td>
+      <td>5,235</td>
+      <td>39</td>
+      <td>12</td>
+      <td>105.6</td>
+    </tr>
+    <tr>
+      <th scope="row">2010</th>
+      <td>65.9%</td>
+      <td>3,900</td>
+      <td>36</td>
+      <td>4</td>
+      <td>111.0</td>
+    </tr>
+    <tr>
+      <th scope="row">2009</th>
+      <td>65.7%</td>
+      <td>4,398</td>
+      <td>28</td>
+      <td>13</td>
+      <td>96.2</td>
+    </tr>
+    <tr>
+      <th scope="row">2008</th>
+      <td>63.6%</td>
+      <td>76</td>
+      <td>0</td>
+      <td>0</td>
+      <td>83.9</td>
+    </tr>
+    <tr>
+      <th scope="row">2007</th>
+      <td>68.9%</td>
+      <td>4,806</td>
+      <td>50</td>
+      <td>8</td>
+      <td>117.2</td>
+    </tr>
+    <tr>
+      <th scope="row">2006</th>
+      <td>61.8%</td>
+      <td>3,529</td>
+      <td>24</td>
+      <td>12</td>
+      <td>87.9</td>
+    </tr>
+    <tr>
+      <th scope="row">2005</th>
+      <td>63.0%</td>
+      <td>4,110</td>
+      <td>26</td>
+      <td>14</td>
+      <td>87.3</td>
+    </tr>
+    <tr>
+      <th scope="row">2004</th>
+      <td>60.8%</td>
+      <td>3,692</td>
+      <td>28</td>
+      <td>14</td>
+      <td>92.6</td>
+    </tr>
+    <tr>
+      <th scope="row">2003</th>
+      <td>60.2%</td>
+      <td>3,620</td>
+      <td>23</td>
+      <td>12</td>
+      <td>85.9</td>
+    </tr>
+    <tr>
+      <th scope="row">2002</th>
+      <td>62.1%</td>
+      <td>3,764</td>
+      <td>28</td>
+      <td>14</td>
+      <td>85.7</td>
+    </tr>
+    <tr>
+      <th scope="row">2001</th>
+      <td>63.9%</td>
+      <td>2,843</td>
+      <td>18</td>
+      <td>12</td>
+      <td>86.5</td>
+    </tr>
+    <tr>
+      <th scope="row">2000</th>
+      <td>33.3%</td>
+      <td>6</td>
+      <td>0</td>
+      <td>0</td>
+      <td>42.4</td>
+    </tr>
+    <tr>
+      <th scope="row">Career</th>
+      <td>63.8%</td>
+      <td>61,582</td>
+      <td>456</td>
+      <td>152</td>
+      <td>97.2</td>
+    </tr>
   </tbody>
 </table>
 ';
