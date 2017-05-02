@@ -22,7 +22,7 @@ include "scripts/profilescripts.php";
         print_modal();
        ?>
       <div class="row text-center">
-        <a href="https://www.patriots.com">
+        <a href="http://www.patriots.com/">
         <img class="img-responsive center-block" src="pats.gif" alt="New England Patriots">
         </a>
       </div>
