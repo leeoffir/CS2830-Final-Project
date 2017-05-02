@@ -15,11 +15,12 @@ print_modal();
     <script src="scripts/profilescripts.js" charset="utf-8"></script>
   </head>
 <body>
-  <div class="row">
-    <img class="img-responsive" src="gettyimages-6339588401.jpg"alt="Tom Brady">
-  </div>
+
   <div class="container">
     <div class="jumbotron">
+      <div class="row">
+        <img class="img-responsive" src="gettyimages-6339588401.jpg"alt="Tom Brady">
+      </div>
       <div class="row">
         <h1 class="text-center">Tom Brady's Fan Page!</h1>
         <h2 class="text-center">Quarterback for the New England Patriots</h2>
