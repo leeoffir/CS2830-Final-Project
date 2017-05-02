@@ -266,7 +266,7 @@ Only a true fan knows the login credientials to view this page.
 <br><hr><br>
 Creator: Lee Offir
 <br><br>
-Email any questions you have about this website to ljotyd@mail.missouri.edu
+Email any questions you have about this website to: ljotyd@mail.missouri.edu.
 ';
 }
 
