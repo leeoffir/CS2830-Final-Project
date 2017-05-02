@@ -23,7 +23,10 @@ include "scripts/profilescripts.php";
 
            ?>
         <div class="row">
+          <a href="http://www.patriots.com/">
           <img class="img-responsive center-block" src="pats.gif" alt="New England Patriots">
+          </a>
+          <!-- goes to pats home page when you click the picture-->
           <h1 class="text-center">Tom Brady's Full Profile</h1>
         </div>
         <!-- first row -->

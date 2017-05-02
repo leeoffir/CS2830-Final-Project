@@ -25,6 +25,7 @@ include "scripts/profilescripts.php";
         <a href="http://www.patriots.com/">
         <img class="img-responsive center-block" src="pats.gif" alt="New England Patriots">
         </a>
+        <!-- goes to pats home page when you click the picture-->
       </div>
       <div class="row">
         <h1 class="text-center">Tom Brady's Fan Page!</h1>
