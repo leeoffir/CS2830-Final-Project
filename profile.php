@@ -23,6 +23,7 @@ include "scripts/profilescripts.php";
 
            ?>
         <div class="row">
+          <img class="img-responsive center-block" src="pats.gif" alt="New England Patriots">
           <h1 class="text-center">Tom Brady's Full Profile</h1>
         </div>
         <!-- first row -->
