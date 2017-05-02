@@ -22,9 +22,9 @@ include "scripts/profilescripts.php";
         print_modal();
        ?>
       <div class="row text-center">
-        <a href="https://www.patriots.com">
+        <a href="www.patriots.com">
         <img class="img-responsive center-block" src="pats.gif" alt="New England Patriots">
-      </a>
+        </a>
       </div>
       <div class="row">
         <h1 class="text-center">Tom Brady's Fan Page!</h1>
