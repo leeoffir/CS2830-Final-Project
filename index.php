@@ -17,7 +17,6 @@ print_modal();
 <body>
   <div class="container">
     <div class="jumbotron">
-
       <div class="row">
         <h1 class="text-center">Tom Brady's Fan Page!</h1>
         <h2 class="text-center">Quarterback for the New England Patriots</h2>
@@ -29,7 +28,6 @@ print_modal();
       <div class="row">
         <h3>Please sign in to continue...</h3>
       </div>
-
       <div class="row">
         <form action="process.php" method="POST">
           <div class="form-group">

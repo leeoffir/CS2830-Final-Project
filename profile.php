@@ -71,9 +71,5 @@ include "scripts/profilescripts.php";
             </div>
           </div>
         </div>
-
-
-      </div><!-- end container and jumbotron-->
-    </div>
-  </body>
+        <a href="Logout.php">Click here to log out</a>
 </html>
