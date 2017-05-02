@@ -1,7 +1,7 @@
 <?php
 
 include "scripts/profilescripts.php";
-print_modal();
+
 
  ?>
 <!DOCTYPE html>
@@ -18,6 +18,9 @@ print_modal();
 
   <div class="container">
     <div class="jumbotron">
+      <?php
+        print_modal();
+       ?>
       <div class="row text-center">
         <img class="img-responsive center-block" src="pats.gif" alt="Tom Brady">
       </div>
