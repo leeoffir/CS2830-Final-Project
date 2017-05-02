@@ -43,10 +43,9 @@ include "scripts/profilescripts.php";
           <div class="form-group">
             <label for="pass">Password:</label>
             <input class="form-control" type="password" name="pass" placeholder="Password..."><br>
+            <input class="btn btn-success center-block" type="submit" value="Submit" name="submit">
           </div>
-          <div>
-    		  <input class="btn btn-success center-block" type="submit" value="Submit" name="submit">
-          </div>
+
         </form>
       </div>
       <div class="row">
