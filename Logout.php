@@ -1,5 +1,8 @@
 <?php
 session_start();
+session_unset();
+session_destroy();
 unset($_SESSION["nome"]);
-header("Location: profile.php");
+header("Location: index.php");
+exit();
 ?>
