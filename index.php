@@ -29,7 +29,7 @@ include "scripts/profilescripts.php";
         <h2 class="text-center">Quarterback for the New England Patriots</h2>
       </div>
       <div class="row">
-        <img class="img-responsive" src="gettyimages-6339588401.jpg"alt="Tom Brady">
+        <img class="img-responsive" src="gettyimages-6339588401.jpg" alt="Tom Brady">
       </div>
       <div class="row">
         <h3>Please sign in to continue...</h3>
@@ -37,11 +37,9 @@ include "scripts/profilescripts.php";
       <div class="row">
         <form action="process.php" method="POST">
           <div class="form-group">
-            <label for="user">User:</label>
             <input class="form-control" type="text" name="user" placeholder="Username...">
           </div>
           <div class="form-group">
-            <label for="pass">Password:</label>
             <input class="form-control" type="password" name="pass" placeholder="Password..."><br>
             <input class="btn btn-success center-block" type="submit" value="Submit" name="submit">
           </div>
