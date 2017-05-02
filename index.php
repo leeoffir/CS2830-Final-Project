@@ -18,8 +18,8 @@ print_modal();
 
   <div class="container">
     <div class="jumbotron">
-      <div class="row">
-        <img class="img-responsive text-center" src="pats.gif"alt="Tom Brady">
+      <div class="row text-center">
+        <img class="img-responsive" src="pats.gif"alt="Tom Brady">
       </div>
       <div class="row">
         <h1 class="text-center">Tom Brady's Fan Page!</h1>
