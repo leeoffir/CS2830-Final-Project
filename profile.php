@@ -71,5 +71,5 @@ include "scripts/profilescripts.php";
             </div>
           </div>
         </div>
-        <a href="Logout.php" class="text-center">Click here to log out</a>
+        <a href="Logout.php" style="text-center">Click here to log out</a>
 </html>
