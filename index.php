@@ -15,6 +15,9 @@ print_modal();
     <script src="scripts/profilescripts.js" charset="utf-8"></script>
   </head>
 <body>
+  <div class="row">
+    <img class="img-responsive" src="gettyimages-6339588401.jpg"alt="Tom Brady">
+  </div>
   <div class="container">
     <div class="jumbotron">
       <div class="row">
@@ -24,7 +27,6 @@ print_modal();
       <div class="row">
         <img class="img-responsive" src="gettyimages-6339588401.jpg"alt="Tom Brady">
       </div>
-
       <div class="row">
         <h3>Please sign in to continue...</h3>
       </div>
