@@ -32,7 +32,9 @@ include "scripts/profilescripts.php";
         <h2 class="text-center">Quarterback for the New England Patriots</h2>
       </div>
       <div class="row">
+        <a href="http://www.tb12sports.com/">
         <img class="img-responsive" src="gettyimages-6339588401.jpg" alt="Tom Brady">
+        </a>
       </div>
       <div class="row">
         <h3>Please sign in to continue...</h3>
