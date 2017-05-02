@@ -35,6 +35,7 @@ include "scripts/profilescripts.php";
         <a href="http://www.tb12sports.com/">
         <img class="img-responsive" src="gettyimages-6339588401.jpg" alt="Tom Brady">
         </a>
+        <!-- if you click the image goes to bradys personal website -->
       </div>
       <div class="row">
         <h3>Please sign in to continue...</h3>
