@@ -1,7 +1,7 @@
 <?php
 
 include "scripts/profilescripts.php";
-print_modal();
+
  ?>
 <!DOCTYPE html>
 <html>
@@ -17,6 +17,11 @@ print_modal();
   <body>
     <div class="container">
       <div class="jumbotron">
+          <?php
+
+            print_modal();
+
+           ?>
         <div class="row">
           <h1 class="text-center">Tom Brady's Full Profile</h1>
         </div>
